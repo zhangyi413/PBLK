@@ -6,7 +6,7 @@ Before you run the codes, you need the penalized toolbox [1]. You can download i
 
 And I extract some codes from the SURROGATES toolbox [2]. I also advice you to use this toolbox. You can download it from here: https://sites.google.com/site/srgtstoolbox/
 
-If you have any questions or need source codes, feel free to contact us: gfkdzhangyi@126.com (Yi Zhang, PhD candidate) or wendy0782@126.com (Prof. Wen Yao)
+If you have any questions, feel free to contact us: gfkdzhangyi@126.com (Yi Zhang, PhD candidate) or wendy0782@126.com (Prof. Wen Yao)
 
 Reference:
 
