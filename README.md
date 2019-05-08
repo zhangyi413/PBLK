@@ -1,5 +1,5 @@
 # PBLK
-These are the protected function files of the Penalized blind Kriging model. Please open the example.m and look at how to use it.
+These are the protected function files of the Penalized blind likelihood Kriging model. Please open the example.m and look at how to use it.
 
 Welcome to give your feedback to us.
 
